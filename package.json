@@ -1,0 +1,12 @@
+{
+  "name": "clen-ts-api-poll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Douglas <douglaswesley77@gmail.com>",
+  "license": "MIT",
+  "description": ""
+}
