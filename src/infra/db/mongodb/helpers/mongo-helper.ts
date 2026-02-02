@@ -24,8 +24,10 @@ export const MongoHelper = {
       return null
     }
     return {
-      id: insertedId.toString(),
-      ...data
+      id: data._id.toString(),
+      name: data.name,
+      email: data.email,
+      password: data.password
     }
   }
 }
